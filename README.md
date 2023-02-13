@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-guru0719&theme=vision-friendly-dark&layout=compact&langs_count=10&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenplanet0204&theme=vision-friendly-dark&layout=compact&langs_count=10&hide_title=true"/>
 </div>
 
 ---
