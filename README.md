@@ -43,7 +43,7 @@
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstack-guru0719&theme=radical&border=61dafb&hide_border=true" alt="1hanzla100" />
     </a>
     <a href="#" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=fullstack-guru0719&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=greenplanet0204&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
