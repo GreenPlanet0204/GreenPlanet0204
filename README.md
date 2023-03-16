@@ -17,7 +17,7 @@
 </div>
 
 ---
--  I’m a passionate senior fullstack and Machine Learning Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  I’m a passionate senior software Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  I 've worked for serveral companies , agile scrum teams as a lead engineer .
 
 ---
